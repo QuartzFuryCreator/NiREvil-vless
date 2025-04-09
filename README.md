@@ -10,7 +10,7 @@ v2rayNG, NikaG, MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta & ...
 - Some subscription links are available for [v2rayNG], [Sing-Box], [Hiddify], [NikaNG], [MahsaNG], [NekoBox], [Husi], [Exclave], [Amnezia], [Clash-Meta] and other Clients.  
 
   
-- Несколько ссылок для подписки на: v2rayNG, Sing-Box, Hiddify, NikaNG, MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta и ... Вернуть результат только  
+- Несколько ссылок для подписки на : v2rayNG, Sing-Box, Hiddify, NikaNG, MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta и ... Вернуть результат только  
 
    
 - 为以下软件提供一些共享链接：v2rayNG, Sing-Box, Hiddify, NikaNG, MahsaNG, Nekobox, Husi, Exclave, Amnezia, Clash-Meta 等。 
