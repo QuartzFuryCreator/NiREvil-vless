@@ -19,7 +19,7 @@ v2rayNG, NikaG, MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta & ...
 
 > [!IMPORTANT]
 > <details>  
-> <summary> In case of dissatisfaction </summary>  
+> <summary> In case of disstisfaction </summary>  
 > 
 > * سلام امیدوارم حالتون عالی باشه    
 > 
