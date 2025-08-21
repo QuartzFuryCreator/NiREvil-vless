@@ -5,8 +5,7 @@ $$\color{#a5a5a5} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$1
 
 
 - تعدادی لینک اشتراک برای کلاینت‌های سینگ‌باکس، هیدیفای،
-v2rayNG, NikaG, MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta & ..
-  f
+v2rayNG, NikaG, MahsaNG, NekoB
 - Some subscription links are available for [v2rayNG], [Sing-Box], [Hiddify], [NikaNG], [MahsaNG], [NekoBox], [Husi], [Ex
   
 - Несколько ссылок для подписки на : v2rayNG, Sing-Box, Hiddify, NikwaNGcv , MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta и ... Вернуть результат только  
