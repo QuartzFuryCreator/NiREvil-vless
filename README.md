@@ -17,9 +17,7 @@ v2rayNG, NikaG, MahsaNG, NekoB
 
 > [!IMPORTANT]
 > <details>  
-> <summary> In case of disstisfaction </summary>  
-> 
-> * سلام امیدوارم حالتون عالی باشه    
+> <summary> In case of disstisfaction </summarشه    
 > 
 > * لینک‌های ساب وایرگارد هیدیفای و ویتوری و ...  
 > * عموما برای الگو گرفتن و ساخت کانفیگ شخصی هستن و برای استفاده عموم مناسب نیستن،  
