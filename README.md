@@ -8,7 +8,7 @@ $$\color{#a5a5a5} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$1
 v2rayNG, NikaG, MahsaNG, NekoB
 - Some subscription links are available for [v2rayNG], [Sing-Box], [Hiddify], [NikaNG], [MahsaNG], [NekoBox], [Husi], [Ex
   
-- Несколько ссылок для подписки на : v2rayNG, Sing-Box, Hiddify, NikwaNGcv , MahsaNG, NekoBox, Husi, Exclave, Amnezia, Clash-Meta и ... Вернуть результат только  
+- Несколько ссылок для подписки на : v2rayNG, Sing-Box, HoBox, Husi, Exclave, Amnezia, Clash-Meta и ... Вернуть результат только  
 
    
 - 为以下软件提供一些共享链接：v2rayNG, Sing-Box, Hiddify, NikaNG, MahsaNG, Nekobox, Husi, Exclave, Amnezia, Clash-Meta 等。 
